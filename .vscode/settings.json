@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Miniprogram",
+        "wxml",
+        "wxss"
+    ],
+    "prettier.requireConfig": false,
+    "prettier.useEditorConfig": false
+}

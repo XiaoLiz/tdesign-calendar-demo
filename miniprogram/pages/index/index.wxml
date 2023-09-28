@@ -1,0 +1,4 @@
+<!-- index.wxml -->
+<view class="container">
+  <t-calendar visible="{{visible}}" value="{{value}}" minDate="{{minDate}}" maxDate="{{maxDate}}" format="{{format}}" use-popup="{{usePopup}}" bind:confirm="handleConfirm" type="multiple" />
+</view>
